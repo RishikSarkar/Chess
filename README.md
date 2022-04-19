@@ -1,4 +1,3 @@
-README
 This is Chess by Rishik Sarkar, Software Methodology 213.
 
 How do I get set up?
