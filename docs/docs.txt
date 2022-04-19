@@ -1,0 +1,1 @@
+This folder contains the Javadoc Documentation for the Chess Project.
